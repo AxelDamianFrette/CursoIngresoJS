@@ -11,7 +11,7 @@ function mostrar()
      }
      if(edadIngresada<13)
      {
-     		alert("usted es adolecente");
+     		alert("usted es adolescente");
      }
    
 
