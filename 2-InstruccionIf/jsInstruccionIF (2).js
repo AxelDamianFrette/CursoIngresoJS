@@ -7,7 +7,7 @@ var edadIngresada;
     
      if(edadIngresada>17)
     {
-    alert(edadIngresada + "mayor")
+    alert("usted es mayor")
      
 
     }	
