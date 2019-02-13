@@ -18,4 +18,6 @@ function mostrar()
 
      suma= edad1+edad2;
 
+     alert("ustedes son " + persona1 + persona2 + " sus edades son " + edad1 + edad2 + " y la suma de sus edades es " + suma ) ;
+
 
