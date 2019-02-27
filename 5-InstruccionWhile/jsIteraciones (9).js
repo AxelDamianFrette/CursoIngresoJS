@@ -1,16 +1,18 @@
 function mostrar()
 {
 
-	var contador=0;
-	// declarar variables
+	var nota
+	contador=0
 	
-	var respuesta='si';
+		nota=prompt("error");
+		nota=pasrseInt(nota);
+		while( isNan(nota)==true || nota=0 || nota=10)
+		{
 
-	while(respuesta!='no')
-	{
-		
-	
-	}
+			nota=prompt("error");
+			nota=pasrseInt(nota);
+		}
+		alert(nota);
 
 
 
